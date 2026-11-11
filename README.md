@@ -33,11 +33,6 @@ I’m a Systems Analysis and Development student at Senac and an artist, always 
 ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
 ![PHP](https://img.shields.io/badge/php-000?style=for-the-badge&logo=php&logoColor=<white>)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rouxstuff&theme=gotham&show_icons=true&hide_border=true&count_private=false"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rouxstuff&theme=gotham&show_icons=true&hide_border=true&layout=compact"/>
-</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100%&color=gradient&section=footer&reversal=false&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60"/>
