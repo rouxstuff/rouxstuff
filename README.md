@@ -3,7 +3,7 @@
 </p>
 
 ## ⚠ About me
-I’m a Systems Analysis and Development student at Senac and an artist, always looking for ways to combine code and creativity.
+I’m a Systems Analysis and Development and an artist, always looking for ways to combine code and creativity.
 
 - Fields of interests:  
    - Web Development
